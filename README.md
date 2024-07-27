@@ -33,7 +33,7 @@ I believe in continuous learning and improvement, striving to stay at the forefr
 ### Tech Stack
 
 <div>
-  <img alt="Python" src="https://img.shields.io/badge/-python?style=flat-square&logo=python&label=python&color=000" />
+  <img alt="Python" src="https://img.shields.io/badge/-python?style=flat-square&logo=python&logoSize=auto&label=Python&color=grey" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
